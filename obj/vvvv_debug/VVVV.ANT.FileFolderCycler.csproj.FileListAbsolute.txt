@@ -1,0 +1,2 @@
+C:\Users\antokhio\Desktop\GitHub\antokhio\VVVV.ANT.FileFolderCycler\VVVV.ANT.FileFolderCycler\bin\vvvv_debug\VVVV.ANT.FileFolderCycler.exe.config
+C:\Users\antokhio\Desktop\GitHub\antokhio\VVVV.ANT.FileFolderCycler\VVVV.ANT.FileFolderCycler\obj\vvvv_debug\VVVV.ANT.FileFolderCycler.csprojResolveAssemblyReference.cache
